@@ -304,7 +304,7 @@
           "title1": "PrepTalks",
           "subtitle1": "Bootstrap 4 has been noted",
           "caption1": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc elementum elit a posuere feugiat. Vestibulum in sem vel nibh finibus.",
-          "button1": "<a data-app-btn=\"true\" href=\"preptalks.html\" class=\"btn btn-black\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
+          "button1": "<a data-app-btn=\"true\" href=\"preptalk.html\" class=\"btn btn-black\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
           "media2": {
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-features2",
@@ -321,7 +321,7 @@
           "title2": "PrepFacts",
           "subtitle2": "One of Bootstrap 4's big points",
           "caption2": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc elementum elit a posuere feugiat. Vestibulum in sem vel nibh finibus.",
-          "button2": "<a data-app-btn=\"true\" href=\"prepfacts.html\" class=\"btn btn-black\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"prepfact.html\" class=\"btn btn-black\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
           "media3": {
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-features2",
