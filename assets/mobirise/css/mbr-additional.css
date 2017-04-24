@@ -832,6 +832,7 @@ h6,
 }
 
 
+
 #menu-u .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -903,4 +904,8 @@ h6,
 #header3-x .mbr-section-title,
 #header3-x .mbr-section-subtitle {
   text-align: center;
+}
+#content1-11 P {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 20px;
 }
