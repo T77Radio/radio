@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "index.html",
+    "currentPage": "blog.html",
     "name": "BKKPrep Radio",
     "theme": {
       "name": "mobirise3",
@@ -23,7 +23,7 @@
     "favicon": "",
     "noImageResize": "true",
     "versionFirst": "3.11.1",
-    "uniqCompNum": 38,
+    "uniqCompNum": 42,
     "versionPublish": "3.11.1",
     "path": "@PROJECT_PATH@"
   },
@@ -1363,20 +1363,56 @@
             "Theme"
           ],
           "_name": "content1",
-          "_anchor": "content1-11",
-          "_params": {
-            "paddingTop": "0",
-            "paddingBottom": "1",
-            "bgColor": "#fff"
-          },
-          "text": "<p><b style=\"font-style: normal;\">PrepTalks - <a href=\"https://drive.google.com/open?id=0B3ZaVk7aX_UpcmZUaWlZeWNsaFE\">LINK</a></b></p><p><b>PrepFacts - <a href=\"https://drive.google.com/open?id=0B3ZaVk7aX_UpLVF2MWJ3Q19ydm8\">LINK</a></b></p><p><b>PrepMelody - <a href=\"https://drive.google.com/open?id=0B3ZaVk7aX_Upa05rNWVqYXJUelE\">LINK</a></b></p><p><b>PrepTalent -<a href=\"https://drive.google.com/open?id=0B3ZaVk7aX_UpZDY3NXFuWndTdU0\"> LINK</a></b></p>",
           "_styles": {
             "P": {
               "font-family": "'Montserrat', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700",
               "font-size": "20px"
             }
-          }
+          },
+          "_anchor": "content1-11",
+          "_params": {
+            "paddingTop": "0",
+            "paddingBottom": "1",
+            "bgColor": "#fff"
+          },
+          "text": "<p><b style=\"font-style: normal;\">PrepTalks - <a href=\"https://drive.google.com/open?id=0B3ZaVk7aX_UpcmZUaWlZeWNsaFE\">LINK</a></b></p><p><b>PrepFacts - <a href=\"https://drive.google.com/open?id=0B3ZaVk7aX_UpLVF2MWJ3Q19ydm8\">LINK</a></b></p><p><b>PrepMelody - <a href=\"https://drive.google.com/open?id=0B3ZaVk7aX_Upa05rNWVqYXJUelE\">LINK</a></b></p><p><b>PrepTalent -<a href=\"https://drive.google.com/open?id=0B3ZaVk7aX_UpZDY3NXFuWndTdU0\"> LINK</a></b></p>"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-13",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff",
+            "showMeta": true
+          },
+          "title": "Broadcast #2",
+          "meta": "June 2, 2017"
+        },
+        {
+          "_inherit": "soundcloud1",
+          "alias": "soundcloud",
+          "_tags": [
+            "Extension"
+          ],
+          "soundURL": "url=http%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F325501154",
+          "_name": "soundcloud2",
+          "_anchor": "soundcloud2-12",
+          "_params": {
+            "sound": "https://soundcloud.com/bangkokprep/radio-broadcast-1",
+            "autoplay": false,
+            "fullWidth": true
+          },
+          "iframeSRC": "https://w.soundcloud.com/player/?url=http%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F325501154&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;visual=true"
         }
       ]
     }
